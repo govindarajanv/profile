@@ -1,6 +1,6 @@
-## Govindarajan Vishnuchithan
-
 ![DP](images/profile-pic-1.JPG)
+
+## Govindarajan Vishnuchithan
 
 ## About Me
 ### DevOps and Cloud Architect | Developer | Manager | Engineering Leader
