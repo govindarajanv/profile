@@ -35,7 +35,3 @@ A Versatile IT professional with 16 Years of industry experience, demonstrated l
 ## Contact
 
 - 📫 govindarajanv@gmail.com
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/govindarajanv/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
