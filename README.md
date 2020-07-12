@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Govindarajan Vishnuchithan
 
-You can use the [editor on GitHub](https://github.com/govindarajanv/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![DP](images/profile-pic-1.JPG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+### DevOps and Cloud Architect | Developer | Manager | Engineering Leader
 
-### Markdown
+A Versatile IT professional with 16 Years of industry experience, demonstrated leadership in many transformation programs donning the roles like Developer, Architect and Manager
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+> **_MBA (Systems)_**
+> * Sikkim Manipal University (DDE), Rangpo, Sikkim, India
+> * Helped me in solving business problems using information technology and the curriculum covered  Leadership skills
 
-# Header 1
-## Header 2
-### Header 3
+> **_BE (Electrical)_**
+> * Madurai Kamaraj University, Madurai, India
+> * Learnt Electrical and Electronics with good exposure to programming using C/C++
 
-- Bulleted
-- List
+## Professional Experience
 
-1. Numbered
-2. List
+| Organization  | Position Held | Achievement |
+| --- | --- |--- |
+| `HP Inc R&D` | DevOps Architect | |
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+- 🔭 I’m currently working on DevSecOps
+- 🌱 I’m currently learning Cloud Native Technologies
+- 👯 I’m looking to collaborate on any open source project
+- 🤔 I’m looking for help with setting up a sample app with all free saas based tools
+- 💬 Ask me about DevOps and Cloud
+- 📫 How to reach me: govindarajanv@gmail.com
+- 😄 Pronouns: 'Go-Vind'
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
+
+- 📫 govindarajanv@gmail.com
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/govindarajanv/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
