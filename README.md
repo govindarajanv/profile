@@ -1,3 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/govindarajanv/count.svg)
+[![HitCount](http://hits.dwyl.com/govindarajanv/python-quickstart.svg)](http://hits.dwyl.com/govindarajanv/python-quickstart)
+
 ![DP](images/profile-pic-1.JPG)
 
 ## Govindarajan Vishnuchithan
@@ -36,5 +39,3 @@ A Versatile IT professional with 16 Years of industry experience, demonstrated l
 
 - 📫 govindarajanv@gmail.com
 
-## Site Stats
-[![HitCount](http://hits.dwyl.com/govindarajanv/python-quickstart.svg)](http://hits.dwyl.com/govindarajanv/python-quickstart)
