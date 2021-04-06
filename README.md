@@ -37,5 +37,6 @@ A Versatile IT professional with 16 Years of industry experience, demonstrated l
 ## Contact
 
 - 📫 govindarajanv@gmail.com
-{: style="text-align: right" }
+
+<style>{: style="text-align: right" }</style>
 ![Visitor Count](https://profile-counter.glitch.me/govindarajanv/count.svg)
